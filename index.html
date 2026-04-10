@@ -120,11 +120,16 @@
             const content = document.getElementById('content');
 
             try {
-                const response = await fetch('./readme.md');
+                const response = await fetch('https://api.github.com/repos/yu-zhengzheng/yu-zhengzheng/contents/README.md');
                 if (!response.ok) {
                     throw new Error('无法读取 readme.md 文件');
                 }
-                const markdown = await response.text();
+                const data = await response.json();
+                const markdown = atob(data.content.replace(/\n/g, ''));
+
+                //const response = await fetch('./README.md');
+                //const markdown = await response.text();
+
                 content.innerHTML = marked.parse(markdown);
 
                 loading.style.display = 'none';
