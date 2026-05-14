@@ -55,20 +55,21 @@
 
 <div align="center">
 
-| 时间 |   学校   |     学位      |
-|:---:|:------:|:-----------:|
-| 2018 - 2022 | 西安大略大学 | BESc in CE  |
-| 2022 - 2024 | 多伦多大学  | MEng in ECE |
+| 时间 |   学校   |     学位      |GPA|
+|:---:|:------:|:-----------:|:---:|
+| 2018 - 2022 | 西安大略大学 | BESc in CE (Electronic Devices for Ubiquitous Computing)|3.53|
+| 2022 - 2024 | 多伦多大学  | MEng in ECE (Data Analytics and Machine Learning)|3.76|
 
 </div>
 
-### 职业
+### 💼 职业
 
 <div align="center">
 
 |     时间      |    公司    |  职位   |
 |:-----------:|:--------:|:-----:|
-| 2025 - 2026 | iston.ai | 算法工程师 |
+| 2025 - 2026 | alfarightai.com.cn | 算法工程师 VLM组组长 |
+| 2025 - 2026 | findpowerai.com | 算法工程师 |
 
 </div>
 
