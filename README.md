@@ -22,9 +22,10 @@
 
 <div align="center">
 
-![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B6B?&logo=fighter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?&logo=debian&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?&logo=centos&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?&logo=arduino&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
@@ -32,18 +33,35 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?&logo=markdown&logoColor=white)
+![Octave](https://img.shields.io/badge/Octave-0790C0?&logo=octave&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF9F1C?&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1B4D3E?&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1B4D3E?&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?&logo=huggingface&logoColor=black)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?&logo=qiskit&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?&logo=qt&logoColor=white)
+
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?&logo=firefox&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?&logo=jupyter&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?&logo=jetbrains&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?&logo=obsidian&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?&logo=overleaf&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?&logo=ollama&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white)
+
+![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B6B?&logo=fighter&logoColor=white)
+
+![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?&logo=polkadot&logoColor=white)
 
 ![Steam](https://img.shields.io/badge/Steam-000000?&logo=steam&logoColor=white)
+![Paradox Interactive](https://img.shields.io/badge/Paradox%20Interactive-282C34?&logo=paradoxinteractive&logoColor=white)
 
 </div>
 
